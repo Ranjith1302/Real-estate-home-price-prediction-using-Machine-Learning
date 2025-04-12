@@ -96,6 +96,9 @@ def predict():
 
 4. Open your browser at `http://127.0.0.1:5000` to use the app.
 
+![image](https://github.com/user-attachments/assets/acbc235f-6473-458c-8bef-f21ea5f194f1)
+
+
 ---
 
 ## 📌 Results
